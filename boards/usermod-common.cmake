@@ -29,6 +29,7 @@ include(picographics/micropython)
 include(pngdec/micropython)
 include(jpegdec/micropython)
 include(qrcode/micropython/micropython)
+include(picovector/micropython)
 
 # Sensors & Breakouts
 include(micropython-common-breakouts)
